@@ -1,0 +1,19 @@
+{
+    "name": "omartins/calendarphp",
+    "description": "Calendario Agenda de Eventos com PHP",
+    "autoload": {
+        "psr-4": {
+            "Omartins\\Calendarphp\\": "src/",
+            "Classes\\": "../../class",
+            "Models\\": "../../models"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "omartins-zs",
+            "email": "gabrielmatheus209@gmail.com"
+        }
+    ],
+    "require": {}
+}
