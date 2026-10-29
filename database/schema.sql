@@ -43,3 +43,4 @@ INSERT INTO `events` (`id`, `user_id`, `title`, `description`, `color`, `start`,
 (3, 2, 'Revisão de Código & QA', 'Testes minuciosos nas rotas de login e calendário', '#d97706', DATE_ADD(CURRENT_DATE, INTERVAL 5 DAY), DATE_ADD(CURRENT_DATE, INTERVAL 5 DAY), 0),
 (4, 2, 'Lançamento da Versão Estável', 'Apresentação da agenda com FullCalendar integrada', '#7c3aed', DATE_ADD(CURRENT_DATE, INTERVAL 8 DAY), DATE_ADD(CURRENT_DATE, INTERVAL 8 DAY), 1)
 ON DUPLICATE KEY UPDATE `title` = VALUES(`title`);
+

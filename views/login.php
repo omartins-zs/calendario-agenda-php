@@ -94,3 +94,4 @@ $isLoggedIn = !empty($_SESSION['user']);
     </script>
 </body>
 </html>
+

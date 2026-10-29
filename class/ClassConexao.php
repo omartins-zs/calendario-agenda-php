@@ -42,3 +42,4 @@ class ClassConexao
         return self::getConexao();
     }
 }
+

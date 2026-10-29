@@ -61,3 +61,4 @@ mysql -u root -p sistema < database/schema.sql
 ### 📝 Observações:
 - O banco de dados é alimentado com eventos demonstrativos e credenciais pré-configuradas para agilizar testes.
 - Use estas credenciais **apenas** em ambiente local ou Docker de desenvolvimento.
+

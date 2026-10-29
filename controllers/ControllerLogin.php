@@ -31,3 +31,4 @@ if ($user) {
     header('Location: ' . DIRPAGE . 'views/login.php');
     exit;
 }
+

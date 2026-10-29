@@ -6,3 +6,4 @@ $_SESSION['flash_success'] = 'Você saiu da sua conta com segurança.';
 
 header('Location: ' . DIRPAGE . 'views/login.php');
 exit;
+

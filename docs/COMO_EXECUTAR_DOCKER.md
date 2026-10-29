@@ -161,3 +161,4 @@ docker compose down -v
 ```
 
 > O comando `docker compose down -v` pode apagar os dados do banco de dados persistidos no volume.
+

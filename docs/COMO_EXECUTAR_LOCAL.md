@@ -203,3 +203,4 @@ mysql -h 127.0.0.1 -P 3307 -u root sistema < database/schema.sql
 ## Próximo passo
 
 Para ambiente containerizado, consulte [COMO_EXECUTAR_DOCKER.md](COMO_EXECUTAR_DOCKER.md).
+

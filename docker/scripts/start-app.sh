@@ -14,3 +14,4 @@ chown -R www-data:www-data /var/www/html || true
 
 echo "✅ Container pronto. Iniciando PHP-FPM..."
 exec php-fpm -F
+
