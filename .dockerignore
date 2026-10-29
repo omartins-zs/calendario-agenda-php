@@ -1,0 +1,7 @@
+.git
+.gitignore
+.dockerignore
+docs/
+mysql_data/
+*.md
+docker-compose*.override.yml
