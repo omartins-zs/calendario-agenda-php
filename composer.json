@@ -1,0 +1,21 @@
+{
+    "name": "omartins/calendarphp",
+    "description": "Calendário & Agenda de Eventos com PHP e FullCalendar",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "class/",
+            "Models\\": "models/",
+            "Controllers\\": "controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Martins",
+            "email": "gabrielmatheus209@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
